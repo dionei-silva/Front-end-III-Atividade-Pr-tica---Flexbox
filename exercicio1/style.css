@@ -1,0 +1,25 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+.circulo1 {
+
+      background-color: blue;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+    }
+    
+.circulo2 {
+      background-color: red;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+}
+
+section{
+      height: 100vh;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
