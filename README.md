@@ -10,7 +10,7 @@
   
 ## Pages
 
-- Para acessar os exercicios colocar no final exercicio1. EX: https://dionei-silva.github.io/Front-end-III-Atividade-Pratica---Flexbox/exerecicio1
+- Para acessar os exercicios colocar no final exercicio1. EX: https://dionei-silva.github.io/Front-end-III-Atividade-Pratica---Flexbox/exercicio1
 
 ## Desafios Propostos
 
